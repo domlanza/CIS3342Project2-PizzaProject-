@@ -1,0 +1,39 @@
+﻿body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    background-color:antiquewhite;
+}
+
+h2, #WelcomeH {
+    font-family:cursive;
+}
+
+#frmPizzaShop {
+    background-color: rgba(255,255,255, 0.95);
+    min-height: 900px;
+    width: 70%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:auto;
+    margin-top: 0;
+    padding-top: 1%
+}
+
+#RadioButtonListPickup, #gv_Input, #gv_Output, #gv_TotalSales, #gv_TotalQuantity {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#Image1 {
+    width: 200px;
+    height: 160px;
+    border-radius: 10px;
+}
+
+#lblCheckboxHelp, #lblQuantityHelp {
+    color:orangered;
+}
+
